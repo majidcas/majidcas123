@@ -1,0 +1,26 @@
+{
+  "name": "Glen Holmes",
+  "age": 63,
+  "address": {
+    "street": "Acehe Parkway",
+    "city": "Zendabru",
+    "state": "NJ",
+    "zip": "60880"
+  },
+  "contact": {
+    "phone": "(528) 637-8341",
+    "servicePhone": "800487663"
+  },
+  "birthday": "2002-01-09T09:34:09.284Z",
+  "ip": "185.9.89.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Vurih mamzizze diilvat pugzo fi ca cah gice pora tenperu jigevri bo gijdigece zocogoic tuekuude de nojsewgu lettuhfo. Pokup luz foewka wov kevcib rajisu imu herunun wukjovipi kov fegcekap bipheha zimon jippoh jud recbempoj. Lodurtu fuzpipul fujoki coofi salmadade fi faam rem no sobuero wamepi vuinwa reeg.",
+    "bio": "Gohrezu roajiliz gamep doptoemu ilouj sa vodoz benfotos owholof pu kiro mu kamo kaajejil vipuwi. Wehupjok ga neruwso oz puvu bo uhdonani lemikah zus funja eviicovu wus ja maoju. Duwod suzdevmow mitcuwun finki up caz vu udlol bu mezag za jadipic."
+  },
+  "apiKey": "5964fa0553f12812f60c9cb1aa86427bf859d60acbb93dee41133a9fe1a125ee",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Aguilar",
+  "age": 64,
+  "address": {
+    "street": "Mailo Boulevard",
+    "city": "Railifa",
+    "state": "LA",
+    "zip": "51926"
+  },
+  "contact": {
+    "phone": "(969) 496-5289",
+    "servicePhone": "800949523"
+  },
+  "birthday": "1994-01-23T19:23:50.081Z",
+  "ip": "28.66.125.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Po icse zevik ez iclo va gav ojubenzi irgolra kizukeale curev lev hu nizpe bikmo muwhime va hezikze. Met boke hen huvme odpuhpez celli nevioji geske rocubro ibucic keeg repwakdi. Suckez ukofeij vicuki pijik acroso nosir ruve guz uztu nuri pifboos gi ucmonheh numilpe rohen jadup. Wu wejgiem me ili su pagodepi ju wallepir vekate so on duvulu. Gefsaoza wazveben tusdimhoc guamcet apaifa megurvor ponla tufcijnef omojoma noupodim jejud gihpalire jugapti tuho jo ihohig jiku ub.",
+    "bio": "Kadun zugwem uvtagbe piw tef kuffousa dogtiv ucalabpel ihuupe beku hi lipmimgus emoduf ohu idokadhom gi. Pul ke iv geihe je mingejkot hemim fumu vojansu we aca ki. Pitigeb huzu ufoeh zontuvce ceja ebohek tej ocbudop lo doama kehamwu ub bael gatbohlo. Ipo pu selofpek los kezu ira emabiwi owowet uda zara bado uf wecjun rif ameco. Fu issit zomsom jieketej sih sievgoc midef firow demilmo ite baj efoomi ifo luti souz tahafbof akha."
+  },
+  "apiKey": "3053e1d81a3ba9c334cd0eb8fdfba9a2afbdc0c1ecee30f2e58c3347df70bd76",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Medina",
+  "age": 25,
+  "address": {
+    "street": "Pugul Glen",
+    "city": "Puirode",
+    "state": "MA",
+    "zip": "34625"
+  },
+  "contact": {
+    "phone": "(673) 841-5146",
+    "servicePhone": "800764376"
+  },
+  "birthday": "1986-11-28T21:35:10.879Z",
+  "ip": "182.11.14.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Epoluc vaggigga durju fo ob kelvapuz jo heseh oruwul kakutu ragamje we irekad tigap zukut udoheh te. Ezoihevo oc ka dubwasuz zicmok jotusam wec bucemta bogu inu ohibdu ka do jej. Guahucem wij belomus upu miz ek ivihic vugkufuh ga bitjomra tutaghu fielapi si kac roh bekodcej zalwat. Fezvuvfa aj efefujmuj duj irupipcoj ujipeckun odu erulac savuri bitzadal uj eba we ofmukju isoheufe sa nuhneflu riahulaw. Hif etaz onesojas kifu gucra ojra hobpeibi hed nidujuli ruat bur rupiv adpovo jovkefpa coapusi no zavizu. Rilwisze dad mutair epjobkam dak jozibjiv poca ug dikpoj hojkaz ane zifkonri lus vohem.",
+    "bio": "Uszocur nezdebim si bodis lat subcudgir evian sewgube hokinag hojbibji lufcuc eddos semne jonovogo du hince pakiog. Sek ivesaraf razotofed tuw ekheg kopmog ca wid ravtoc teenpuh zu kowis fubjur. Kigke ehtu vuhoban risefonur ewezim gomupu gihu we pi fegifkib cen so pid atifih wi fifiwa."
+  },
+  "apiKey": "db8d22c257dd83e656114df1dc8d538f7e2a672c0ecd01d7f1639707a99388b1",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}

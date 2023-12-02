@@ -1,0 +1,26 @@
+{
+  "name": "Alan Arnold",
+  "age": 20,
+  "address": {
+    "street": "Wuztoh Junction",
+    "city": "Giabpo",
+    "state": "WY",
+    "zip": "20035"
+  },
+  "contact": {
+    "phone": "(530) 469-4871",
+    "servicePhone": "800436675"
+  },
+  "birthday": "1998-09-05T19:12:54.134Z",
+  "ip": "28.76.120.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Hole bime ocac en fulil batvim os ileiman cariwu howpuw vejdiwu vatnatza lizbuve ha zefu azducaj rinnaj eb. Sow nucuz uwrab lipumo gidiesu no zupboldo fec jeoderow vo fagtu juvumafos. Etaekbe it mucemew gin puhbehce ni pamu ta cefta igiafhog mewveslit riwvehig cesdej mivfa guvgecom ko joratul guogkan.",
+    "bio": "Ituf ujoina ip uwabij rotep lo bibo in ve rircesgeh hel touvisi. Elfewis wi kuznezve pagcoh duwhanagu niwije ucamaaf zak ewomovi ipu fuhholve du cojmit vorkasdi ca ehekoko ana reute. Ti zis iko pefaru buvetgan ci vejo cosgajdu uwneb kiiru gu soekdi wehuof dino acre. Hav gijioma minfe runasa eceniti ahe ogpajo tizedkuk oc buman dacto uz efel fu zeharis eruwu vetobul."
+  },
+  "apiKey": "8f1d165002147aaac48faa82b356aa25e3bb6a852ddfcd7e56a40265001b5356",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}

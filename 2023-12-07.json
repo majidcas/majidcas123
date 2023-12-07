@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Miller",
+  "age": 36,
+  "address": {
+    "street": "Bewwij Heights",
+    "city": "Ratfebo",
+    "state": "AK",
+    "zip": "34948"
+  },
+  "contact": {
+    "phone": "(386) 537-4696",
+    "servicePhone": "800613156"
+  },
+  "birthday": "1975-02-10T09:06:03.052Z",
+  "ip": "103.242.194.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Sademvu izefi izo ulu sunwuz mehebcof re tuzi fetduv bogvimmub sudildop urti. Ci icmat weado tiwmitag win vaijase le fihajuh zikwegi wa ner naziwopo karibum zosfi omjizeb doize. Casnuna vik hir odo micumezuw viezhuv ras wop rih wenuan nuve tabu pozad jacun okepenrej racomu dudalo lih.",
+    "bio": "No nicpufi zom sauvife vigoferu anmoj himcosik evu su kizu ma ta ifsag buvoj zat didanol. Je pef vehkuut moh dupif jizfog hagmem arpu ozsifiv dalpuh do top zuzisraz ze pilzu el mowibza. Nen baedicup ludfugup iluwe ba owizef etgojo zenkowa wikidiatu ifefu wa da ewe nusogop."
+  },
+  "apiKey": "fe0aa4b905928dff92f13988dacebb986ea7bb12c85ee58d5b93a231c354b8ee",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}

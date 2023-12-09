@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Frank",
+  "age": 56,
+  "address": {
+    "street": "Ducne Way",
+    "city": "Pasetir",
+    "state": "PA",
+    "zip": "22630"
+  },
+  "contact": {
+    "phone": "(561) 449-6217",
+    "servicePhone": "800448692"
+  },
+  "birthday": "1974-04-27T16:10:09.617Z",
+  "ip": "134.24.179.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuh toactu liv netatki loz kaaf tuwce valo cow lizpuhro dal dawtelug walaru co zowerji uvvope. Zuweha nubizja kak ro wujzoz inmalohi ebupi lidezig tahzoz mekjo mumise wop ajunid. Jusofi cavuate buf naci gi vejaer avagupda botofne bu iho kefuje burjogi telecilif satujhad wob ji zalde umti. Miho jafhoddek nopowjuf dom tahveged ha hiwfuc abaar so ruwusoina pofciag kefvi in.",
+    "bio": "Bedoho zac ultufcig jitmo beela iwe wajce suz hufoheb ow gacaogi jidvuka werrovova. Em viv ujdil zaeli fofpo mevsen tivaah polaf nibji saevuju kus oh luko dop elu pioli nep pafpu. Zaz deh redepa gubi de ulo riesehi na rappo patteihi ijo mo mosac uv. Keera iju wow golurlo zokepiis vef vodim rujunret ketwu kib koron facala barelwa dubiw ufo be tud hewauw. Do bisobidev avi cidohi vebsucof eb zak upiomaha dav kecodon jorug zo pehop pieli fonijod vurirad pokhewof."
+  },
+  "apiKey": "81ac29d14dbf387af94d50339a685f35cd0849512fd1ca291b8edbc849f4851b",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}

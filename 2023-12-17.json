@@ -1,0 +1,26 @@
+{
+  "name": "Brian Huff",
+  "age": 32,
+  "address": {
+    "street": "Epdec Junction",
+    "city": "Zupnownit",
+    "state": "VA",
+    "zip": "21349"
+  },
+  "contact": {
+    "phone": "(609) 402-9065",
+    "servicePhone": "800121331"
+  },
+  "birthday": "2000-11-14T18:48:47.408Z",
+  "ip": "244.230.158.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Imi sidla uricor ewcakbi nupgaz sowov tu ziifi rukukjeg lekmed guno jutzi emo motidtag fu obe zubu. Mejpa bopovume puduvre oh seot duhodu ratgu kizhawog colejo zikudes pazka mi keosa hesud perzirif. Bojoksor ezpi awulojju pa fejtage gi muf gikojidu miifu gidajih oddedfep opoeka. Ijgod ifoobicoz viriwbap himucafop avizi suftivad kegeg lintovur ugnur oha kipow akazefuv azbukdi. Jim howzajhi zuh fopruf vo siru zu dapak olaema nuzmid falwi pumhi werculop jehito jorgin hocuzmo.",
+    "bio": "Nevdol elo ti are nizwub pa wip ho jepwefoz ojahaac osunesok orjatcin leipawe takegzi dacjizfek ipuweeci ticameid. Lu gagob tejajdi ici ose goh ib botikoki fokecip mogustoc cedihob kuwholli. Peohewu usora ciwelke zabon hewdisuv zupvib az odu wenrim tizami ici etufuw evhiuj ijugi coc efegublav. Toedehud lu tu hemawed dedsof ubatin ni unegehzo at tev noifa ho da sic col."
+  },
+  "apiKey": "fa6384e108e05eebc1ad82d78cf20d5bcf31614b6b9bf51369580a1da48cda4b",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Curry",
+  "age": 51,
+  "address": {
+    "street": "Labama Terrace",
+    "city": "Azboufo",
+    "state": "WI",
+    "zip": "71895"
+  },
+  "contact": {
+    "phone": "(718) 870-4783",
+    "servicePhone": "800554687"
+  },
+  "birthday": "1993-11-13T08:38:21.348Z",
+  "ip": "245.154.42.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Romera eguku jas rudek fi ibril igihabom ju nav vo maer ovjebmoj guvevahe holzij nin fe vodinho. Ale zebjejmeh wavroiwe awbi dihkeh ba funcuse upjes fi keakado zaw daocohim magbofut. Zehce ci map efeidueb wigbuz buvombot olafu hep wivawed kagmidew ziferjak vobheboc keun suzoh odiiseguw temkic iwhipdo wefme.",
+    "bio": "Vuro or vitaka ca taje viov kidje ta barevin niugeije zaposal guwgi borap. Fawvuzu fuzhavok zegum maslaka bu mu cig jephuh pim zuer kumwopa cosuf son hicnukso ok hedup kecvuzup. Ki udihigzul patak jo vuhac ji neski ano se cobi ha at nipha mevrelu gurmifuj."
+  },
+  "apiKey": "27a3d5e2a9ebc2a0bb982246822625befde7433b23449b2a417135f904f16708",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

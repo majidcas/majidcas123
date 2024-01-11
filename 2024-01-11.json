@@ -1,0 +1,26 @@
+{
+  "name": "Addie Henry",
+  "age": 34,
+  "address": {
+    "street": "Imnur Court",
+    "city": "Pohecueg",
+    "state": "VT",
+    "zip": "40123"
+  },
+  "contact": {
+    "phone": "(638) 499-3594",
+    "servicePhone": "800452798"
+  },
+  "birthday": "1966-12-03T20:00:18.892Z",
+  "ip": "194.36.228.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Refa sohgu itiurvo nelon wefimo azufi dudobpe kerzuh mo goifona fofe fu ovu kaf obuba damidev. Ba kih pajzuhad bilde nazuco mevkekuzi jevow cege rujon rak onzu juklipvu. We pa ejido bor pubje oke suvopfil fu gakni ri wupzepgit ri zofraru rup.",
+    "bio": "Gidzirwa taj kavki zitecdo lecfo puk re em horahlej kil el uj ub vout feziucu ra liir. Nidwo va new vuhilod faridwut jupiuf kuhupa gecruase ji ral munasum adeturet vorhuviw. Hilmabic ewu nunam zipge up nevegar wed fez ne sovid ducoilo zinbubub bouza iznoh giefu fam bikzo sirde."
+  },
+  "apiKey": "70a95512073763654d15b5ad3a2fa90e69222b1fb9c4a924f75550277c65c4b3",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}

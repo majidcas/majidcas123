@@ -1,0 +1,26 @@
+{
+  "name": "Stella Stevenson",
+  "age": 63,
+  "address": {
+    "street": "Tebun Pass",
+    "city": "Patcumi",
+    "state": "AZ",
+    "zip": "63036"
+  },
+  "contact": {
+    "phone": "(302) 758-2244",
+    "servicePhone": "800493766"
+  },
+  "birthday": "1981-11-06T20:31:45.767Z",
+  "ip": "180.4.135.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Houzifu geuv irmin zoldu nob coda dirtaloh sovugos vi rogehfe kiri uzduvak tavafbe. Zaisnu cejijobu kip ge vugiz nel tucina ros caf oz geziroc go tenal vecvenlu wogfijre. Odotajo reci ju okwepez fafas wigcin kiv fih as sa pawdeg jab egluhev igva tipwezek he fawuf paz.",
+    "bio": "Joh acbikur ev dem for cozom imwe ko feg icsamev ofi diswem sir pur ki gejkubmer. Pukubab jiigvu hommoze gaufbe ticaj zimwa sam putpedwev orruza savzoh corezivu soken agad ujibehu filuzoh. Vertukhe emecutcif fowsil utehuf motucfeh imaraher ap pune bula nacni kom hi lamownah uneadni sipvuri laceg."
+  },
+  "apiKey": "c4be8902fcf5c209140eac0873b09d41eb21dd2759a0db11f06eb98efd9a7f31",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}

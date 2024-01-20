@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Anderson",
+  "age": 59,
+  "address": {
+    "street": "Mita Park",
+    "city": "Onezago",
+    "state": "WI",
+    "zip": "36142"
+  },
+  "contact": {
+    "phone": "(316) 590-1769",
+    "servicePhone": "800258532"
+  },
+  "birthday": "1989-08-23T10:13:38.891Z",
+  "ip": "199.6.253.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Cik pe ak hubrerni diralid efu lujiplez ogadepuc ma cuslepito ejloja ciko vesapot nuvbuket na ob. Diok fekrav rujo hit lelaleg cawojwe eguugaz pe cuwuoga awjok beezbup oduba. Ennu agafahpu ni ceknur mek zojgevol asfehres locuwi osace hipra tarecup liulice ozeubojuh riwcu. Susup emohi hun dar puk hu iheliblu bi kaj tef kukmetib ilgeno kokjacu iwupe ahu.",
+    "bio": "Otfohap epmir nadep zeova recul godeg amkivriv ra tajen kuf awvico had mijif. Peg di ajfelav oktah atmejar sionpe gi zak oboowemi egagoszi kar hetbat tuemute. Iciwopeh beftimeh zusuvvo vohebgec omiubuho vunoj vo teufi otunucta ufu nedimipa hedu otaume ic ledti nospeku bamnez. Erazum uhiig mu ur tewuz igosas peozwuf kalmij ickogzup egopac vojahaf ih."
+  },
+  "apiKey": "12d68f607c75d18d98232552d555613a9c315bc1c9f92c314fb7676d5b2e8907",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}

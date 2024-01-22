@@ -1,0 +1,26 @@
+{
+  "name": "Helena Keller",
+  "age": 53,
+  "address": {
+    "street": "Etozu Road",
+    "city": "Imsejaw",
+    "state": "MT",
+    "zip": "00210"
+  },
+  "contact": {
+    "phone": "(388) 896-8429",
+    "servicePhone": "800437897"
+  },
+  "birthday": "1969-07-13T00:29:10.700Z",
+  "ip": "124.132.139.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Renoj uba jetava at po cew ravuku igulu ocapun hilliti zesutar salrac uw cehgar juwcini. Zuzac ewpu hovteslu nuv naz jedtadfac pejnejhel tosove tisenoez ubeta kewu ocauh amef sezu des. Vo sepmam jog co pe edaogera iptuw ugo gozrunes ejomofe rikbenda sajse mazan gali gis sip kemke.",
+    "bio": "Bimrilu rantup tohne fih vez fob kapbuw reltezbev duvmusta to ukiujizi zidovi ne. Zat fenwarbic bojlev culakkec konkulic ok vilu wip fibu zugidi oz cuuzo uhimu dan mafuz ta naumecuh fotaaje. Baszi obohucu sopevucow rifevito to wo nage cohuvge liavi aw zephun pebwi."
+  },
+  "apiKey": "131483ee759bc3954c6daf6514437ed1c99af7380a8cc3c3d555e4123fddc2fa",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

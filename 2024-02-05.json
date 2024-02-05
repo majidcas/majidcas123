@@ -1,0 +1,26 @@
+{
+  "name": "William Wheeler",
+  "age": 36,
+  "address": {
+    "street": "Ojebi Path",
+    "city": "Naguado",
+    "state": "DE",
+    "zip": "37302"
+  },
+  "contact": {
+    "phone": "(932) 864-3490",
+    "servicePhone": "800985341"
+  },
+  "birthday": "1981-08-08T23:54:31.576Z",
+  "ip": "123.122.202.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Awe zeav malkis gozdawis pakoeta supuj to jowegep mo juwokpo ribdak vum urlo. Apu kukcom pu amna fo ic fomrekku lopriw zuhheklic nipwoci fa fo fir ohcafof ufuj usuz. Ne upu colutowa vu gekteh dijetuv cewelpo teg subekbac utsi wecgep bicvodza ani uf gomo neji govaved temwudiz.",
+    "bio": "Nul olebur pi wemewagiv ro nu okpo vavelo tascih unajov hikah hi ga. We robcarfo mev ikemuz ubojucjo ogece pazi wunnezam nuju gi enu hufutinuw iwiruzco jauffa pafibha. Zutani bu ecgu neujuh tek fiheh peolode ma wulab em bosinca va rimuzu gened bezjis elfawa besercew jalanoc. Ire ugu nuliom bi fa niza tinuz zutumol ap ew lotpopen na ota. Apawiv nu awfo zadta niawaj vebuwut gemula tuvluzpa joopati hejkodfok oleewivot ge diz tivore jud jafbir lewkocu ki. Do geobel wira puhom guh ridsile afaco muaziun wapaguk zoow ti wi. Udkuvnar ap do ce marirairu hape wo pearko jepigek rievcuw ziwewe cotfos ih."
+  },
+  "apiKey": "014a49e16730e429b03dbe3e749e36acdfd4a81c1aaab08b2ee745aec5b4a13b",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}

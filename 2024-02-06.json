@@ -1,0 +1,26 @@
+{
+  "name": "Billy McDonald",
+  "age": 19,
+  "address": {
+    "street": "Vega Heights",
+    "city": "Lojhoge",
+    "state": "NE",
+    "zip": "42529"
+  },
+  "contact": {
+    "phone": "(881) 777-3456",
+    "servicePhone": "800165919"
+  },
+  "birthday": "1985-01-16T08:58:24.056Z",
+  "ip": "231.190.244.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Te ara ucouneapi heidluz ni pag wuz zakzehlo fugioka sivobi leviime raume. Bos ro luwuz harufpus ah cumekome ezuonu tacekwet sujikujow nuw pojag cut age zilivaw. Werej ji icgivoc te dugipab ulsefre mip vuvmor vinpasuno daguv ni mi bowuubu sohvoccum zubwu sa opjopiv niw. Mubda tagfa kapak sujiwru wekfele beepo cir kobnazler ge igielawow guczanik zouj.",
+    "bio": "Awreb la mupo omivu masru atueji jozopuc roc ozo no zi kebowra uv. Macpapu utoel ineadi so maldiw lo wakudjo zuepo anu ibo kozbi ze pajodoz oc. Zan bi jebmurab uwi vav lepjifkib vewce diose hawgura pi esca uhibafpe ziv bubgud lumdin nofdeva igir."
+  },
+  "apiKey": "3d31a70cf67da23849b4e27b2c421b8786444d06a601b3020345d7d6722e2b47",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}

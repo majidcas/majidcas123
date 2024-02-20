@@ -1,0 +1,26 @@
+{
+  "name": "Gary Keller",
+  "age": 32,
+  "address": {
+    "street": "Uvre Street",
+    "city": "Joraraok",
+    "state": "RI",
+    "zip": "98784"
+  },
+  "contact": {
+    "phone": "(362) 467-1830",
+    "servicePhone": "800432411"
+  },
+  "birthday": "1967-11-07T18:14:25.347Z",
+  "ip": "183.231.212.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Obi viler mitoeh pukecip dedaag gupsepi okcoztac irpoh dek pegbonor neknawru judhewdi lasap zeduwe. Wespel jazo loijuci oc ettapfig furugabu taru bekim ri gehzaw ruas pu bo fapownuh wi. Si mitel pe nag bejo waep vepabov wabekuf bob etjarot vigezoz nuv fowopzu pad si zodalitu lij pigu.",
+    "bio": "Widuv af maev fi zokot cal odfer banebmip wehil wi kamrirgi gijiup zoccurne cigze hobiz uwi. Bic itjecjes sozohe fucuil leg ipabof ojpoglu zujnori kah kuw woes sekziruk ci jorcoifo ekelotwoc geem wegimec oszupmus. Ebigimpul tiolo de pos rojrazef rippoug mo wuhwa wisinhov feg na vi aseedu iji te fipsos maf."
+  },
+  "apiKey": "01ce8d11206a927bff25faf3887bd091e95c584df62f95b6152b38b965ee4602",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}

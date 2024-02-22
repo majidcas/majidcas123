@@ -1,0 +1,26 @@
+{
+  "name": "Chris Moore",
+  "age": 50,
+  "address": {
+    "street": "Olojat Parkway",
+    "city": "Fiwfero",
+    "state": "NC",
+    "zip": "23049"
+  },
+  "contact": {
+    "phone": "(463) 263-2021",
+    "servicePhone": "800981869"
+  },
+  "birthday": "1996-04-22T01:36:36.814Z",
+  "ip": "204.194.122.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Hokmidi ivosucva ute ladmucu cu sus suve ho haenewe gur hegiwiz zihemu memdiwmo mochujin kavir pi. Estufta kinekug ip ejoko lufadre go zikaodu no pa girvestu tuh ig lowzare buwfa fi pezgumfov asataw. Erazojav zesawzif di otiveni dakiwo muvihkiz ofo tinmum me veguw sicafanu luwouw cugpek gi pa fom fim ve. Ijtecov tusupno romviwgu ojigeb wopub medivma kum game ersu do vuskof wumat lec efu. Umwezpe atesu ki narka obugucuf gucafpe onacivher kimav fazut gosuraero ago janbuv zanritreb battuna bogvafka fuc zaaheazu veewwe.",
+    "bio": "Eje buvotag touze lanmic medupof winenpem pa ifze potuka cecpaij segof iwi ajdi vin ludu buw gais. Uttivej ves eciwtir jaf ladi elu jes fa jiltu zemwauh tiboiru tosos izuvuce zojva nejimut ag hiem kalwa. Bodi huofaok odit si iwmitap le dib fozogo hutzutje baheznu cu vas moah cil boceluf. Nuufitoj dizotkiv naji elkuchog orifibdi filcam kulip wekac curudzel fifgawe ijluv je ko zepadora nakvickar. Fipag ma resmok nesu mahakod bekjitko mitdavtar wujagout pavwuj givap si te cun. Bara buci dur num uk duub ur behug wolbiki nitoeb sod jus likaone kegki zuozauw zeuw jomozec utbiral. Zamseg fatod tikusad gob tehda rewlizne saar ubidal sa wajnen himi gudhuz hepnih."
+  },
+  "apiKey": "1ac6466b34ccd5ef043af2a975494e8cdf72a6ab417e7fed37aa197ce37fb0d7",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}

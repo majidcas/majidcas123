@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Tran",
+  "age": 58,
+  "address": {
+    "street": "Danho Highway",
+    "city": "Izjuav",
+    "state": "AK",
+    "zip": "96025"
+  },
+  "contact": {
+    "phone": "(915) 315-6969",
+    "servicePhone": "800183596"
+  },
+  "birthday": "1983-01-20T02:20:40.068Z",
+  "ip": "71.245.188.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Asroon gigipme rahge vabpib fewukvos ub dup nivadib diarolo eb raji zume eguftuj pug souzfa sud tu ceecima. Rub aloduci lagwoc imo hudu ecodespa tufoh fovetu jesevez wur funvaud hod desorwig wuvuc duc parorre pumlomdu ko. Suwkib nojfiag ek favcabol enpog tuwnu detso cu roj wip moj lufdov wi debgoz ev besi miagno. Gip facle dapo wu van ebu zo hij boew rihaga hirsov kekisteh ci owifudjol giguuno seban ujower sijko. La ojile gius hulzude vo ilaukajuh ciwniuc sugziklu viefo femcu gop fofsa dak asi fuh ezwi. Lisafcu ge osamezid nasetakoj wi fus tuni bohuwip se ha kumugodu roscog giiw hude. Budicu vijema ko hal lop ce eb fobuv bojzaic buj anve cinwac.",
+    "bio": "Toukoku titic nemkal utgejiz fonuti mib le fih zaz purnulba nawfer gesdokun boc ajoubaki sid tu. Alelurlo degwaam piinevo nimudete ewokodfim he kairje rorbi mamotzo upazup mon luc wetkuwa. Kirsum fuvhelor uh zohug ma uwo wo elowupo hobkavzuh ag lo howomupe gugugpa otoz rohegu nurbu. Nihpa me niscala ifufipe ol kolurbag obtok ipjurom wejtejfep fun foaduzep bosnasu voul. Padaka cak buhe jevega erwoju risa ha en suljawaw vegfo jilfevsa lacde ov ejaobzo morwilwe hofgof nuku appiv."
+  },
+  "apiKey": "4050336f99ddbba33d8ff097e7b8552f64d4f2a3bb1cf6c7a3066a6fe89ab1de",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}

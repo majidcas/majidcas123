@@ -1,0 +1,26 @@
+{
+  "name": "Jorge James",
+  "age": 39,
+  "address": {
+    "street": "Iwehi Heights",
+    "city": "Gagjimeha",
+    "state": "WY",
+    "zip": "80795"
+  },
+  "contact": {
+    "phone": "(702) 347-7829",
+    "servicePhone": "800722663"
+  },
+  "birthday": "1977-08-20T09:10:40.833Z",
+  "ip": "37.167.170.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Legu awhi roh mi ubaatuc viic ev torhu suub etmu de joseser alijo. Ci jo zan zug burigbe tegu uk jeije op olerbop roco lahgeer ne pavez fe ivatadke wu. Ane ogomo jesba giwja guib nuzguat zocono uhazso we cel buagoho isu keedrap vir delujuef. Cos vubkahuj va foktan vemsuv nuvula kihes ug mol depfofol he pucu diszeico il po pitukuc giwawoh.",
+    "bio": "Elguvi boh gaposa dep bu ba dekibpu hevcab sipi fuf zucnap lireh roluvez situuk nujdulbum fapojih zutzarga ke. Ne wipworkir ruc pehha zecanic jutelori vo jiw hulme ca af ev celhat. Raaro ehe dedicoz dases obucu hih guzpo udawut is motij midbuzo mikse homkihin afec sifsa fugived."
+  },
+  "apiKey": "eac3eb9a1b1cc3355835729af4e67f9532eb1302e8438a2709d49aaf2d4c55da",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}

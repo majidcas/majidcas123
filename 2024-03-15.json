@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Carlson",
+  "age": 20,
+  "address": {
+    "street": "Poha Junction",
+    "city": "Holziid",
+    "state": "NC",
+    "zip": "75141"
+  },
+  "contact": {
+    "phone": "(282) 590-8092",
+    "servicePhone": "800764141"
+  },
+  "birthday": "1961-06-26T13:50:08.241Z",
+  "ip": "54.30.148.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Difhivo ahu rihlud wimup ra isuhatib boppe god nerpume ruzuc zocjusu voramavac dunwo vuete vewkockod mahzow opuwa. Juskujja tu upce saani odeuj lizo zet mupaceji ewubeum pekunhi hi covijzoc mukko ohba. We abo cegeme sih viruah mecewsa tege oczo zedet ubsoc cane pala ba gu.",
+    "bio": "Dolfatwar mah jav tawho buogwum sanlegdih ukaok jop mefej darejep tirnej jouw ad gub. Wop rissaita senulgaz mubago jug emocic ki tiog ned son kuvono ji pizoje. Tamul necwit la uceba kega cofonav huggu cuvaliv nomvuc nopepve weoz gujednu vene sukow tab jomkefot. Rushubsa mip buw sajon rof cuc ofeedo gol wenopuli ofedaj korzaosu cobu vememker jemus ha josnu."
+  },
+  "apiKey": "f8102d97664c9556e11742f5697feba192a2127dc8538747c2e75380fc6a9282",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}

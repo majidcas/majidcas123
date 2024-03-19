@@ -1,0 +1,26 @@
+{
+  "name": "Allen Collins",
+  "age": 38,
+  "address": {
+    "street": "Evmef Loop",
+    "city": "Toromosen",
+    "state": "LA",
+    "zip": "00185"
+  },
+  "contact": {
+    "phone": "(720) 575-1002",
+    "servicePhone": "800594364"
+  },
+  "birthday": "1960-03-04T11:12:07.841Z",
+  "ip": "100.153.242.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Jez ofoazoga bak rifrif zis uhouki za nu muncad pocgav tu duhte hudpokis telnido. Hicijmip ivuimi cosvogom ej em kueta geb celew rat po fowam pafvi cuhze weoho ju pu wubradev. Ohukot ateaho of bebobe wa ifratpug lif dif nuk pop be binek ali.",
+    "bio": "Im nubnoh giwo etifiztac lule uh nirihmu be buti jalu esinef ulkulda veferpi guiv. Rew ufogsu bewcazbo ma ubfet rizi hin ije cavceji ba ruphi bakdolsip. Woj uge eliwuj uwgu heliwa duvah hofubja haficgul las rode ule us wipogo."
+  },
+  "apiKey": "372f75a5f2b98e1ca8ea10fa2c23c15d8bcfddb8f7e79d0ec58b65dcd9fdc61f",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}

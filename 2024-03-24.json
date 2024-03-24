@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Sanchez",
+  "age": 30,
+  "address": {
+    "street": "Kohzoj Heights",
+    "city": "Dofholuv",
+    "state": "NY",
+    "zip": "29893"
+  },
+  "contact": {
+    "phone": "(372) 345-8894",
+    "servicePhone": "800753444"
+  },
+  "birthday": "1972-10-10T06:40:06.615Z",
+  "ip": "107.252.32.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Esenovjev la wusgali kafbitaz upbowfeg kulunez zahuvioni bifmu guwfiwpa lu meoz vekle nazo. Su kezcekdo samuhjo wasikli zevfas ve copru fozeh powumo kosu mifhorfo itribsi ciwfizaf. Wemikke vik vuhmoita hefget za bajnuttun foada vo binuhevu ho at mimtikku. Hotosi liksi ojal tow cenwobib hi mujjozzib recoso okonoiwo wik cu jeogu cudto unicaf duzhalej niwwoihi li. Gefvuk fujehzin adabolcu docus sev faf sulen jeture duli fimi nem meje wivim.",
+    "bio": "Tembe kufciriv zow fic le bizuga vuoteta gi tobegag gato zug hi. Vatu cuuri wimava zoom luwok uhafictin refa ze kiofoja halo hi efiuno meew zoh zik. Rabnemsa igina puh tet fojuf kuvav fiwupa so ituow hecis not va bugaruf."
+  },
+  "apiKey": "9d909f7e6408bbaa6fa704f5b9388b12c6d4d6aae060e960ef8c9bc430aa468a",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}

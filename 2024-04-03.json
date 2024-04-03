@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Cooper",
+  "age": 36,
+  "address": {
+    "street": "Kaodo Mill",
+    "city": "Dakavos",
+    "state": "DE",
+    "zip": "41008"
+  },
+  "contact": {
+    "phone": "(264) 339-5394",
+    "servicePhone": "800417334"
+  },
+  "birthday": "1985-03-21T09:02:34.953Z",
+  "ip": "77.114.234.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Firi kujlof ok zog lusjuiwa juluba sivu ohziv ziaboke catkefah paz nazvup zoca sa hoclohu zumsohaw rampataj zuce. Ze ifiweggem darki lisor okoje pusnas gowa fo row tare asohoes gojec. Aluza pat lelu ohwipuce kisu ko va le povaji po numomi inu fuebuud azu.",
+    "bio": "Asu ebli sadidti fofuf toz webanet epa davsocpid fiz iv katagaj ibi dub kuwog. Puviwzi da bos ewu vujummib agka dorah botu guneru bug zambeova ci fa oja. Jil lioloba ozi wita ozupefu at pafvotfu cevle awa jepacwah jon buci ca mekgekzaf hogooke jiiv. Evmamo rer zicouma ositig foeravaz ji fiuvuaji ov hu hieli edfupe maossi. Ohij rupli wulwin oceme gas alezaet kirsus momfa caki mu za pe gelsorpig zuho ilmuge muboda."
+  },
+  "apiKey": "8af72cb5116a43abd46d1f33f1055cd6e2604cf4727137c32e8068386517c967",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
